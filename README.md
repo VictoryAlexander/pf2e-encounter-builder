@@ -4,3 +4,6 @@ This App will be able to help GMs design encounters including traps, as well as 
 
 ## Technologies
 This project will be bootstrapped with Vite.js using React as framework, as well as have tailwind.css for styling components. Mongodb and and Node will be used for backend processes.
+
+## Deployment
+Initial deployment will utilize github pages before using node.
